@@ -36,5 +36,5 @@ fruits = {"apple","orange","banana","lichi"}
 # print("apple" in fruits) 
 # fruits.add("pineapple")
 # fruits.remove("apple")
-fruits.clear()
+# fruits.clear()
 print(fruits)
